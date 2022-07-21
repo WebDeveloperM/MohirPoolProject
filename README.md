@@ -3,4 +3,4 @@
 
 Students Info System
 
-Open a terminal and run the program(py main.py)
+Open a terminal and run the program(python main.py)
